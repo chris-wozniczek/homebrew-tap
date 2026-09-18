@@ -1,6 +1,6 @@
 cask "otter-stats" do
-  version "0.1.0"
-  sha256 "427b3c1d84031351e37bc388af285b7850e3f98a36183f70ae57baac32d3d311"
+  version "0.1.1"
+  sha256 "d00bbcbe1d7a9ef9e08f882c5c62bd59d0b1e596bef690fe7c6c8da24c5aa146"
 
   url "https://github.com/chris-wozniczek/otter-stats/releases/download/v#{version}/OtterStats.zip"
   name "Otter Stats"
